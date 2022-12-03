@@ -1,5 +1,5 @@
 # Foundry
-A powerful, open-source, and all-in-one workshop tool that takes your game's community-made content to the next level! This tool will integrate everything you need to support singleplayer and multiplayer modding!
+A powerful and all-in-one workshop library and tool that takes your game's community-made content to the next level! This tool will integrate everything you need to support singleplayer and multiplayer modding.
 
 ## Features
 * Allows clients to download and play custom content (e.g. mods) from a configured external source such as a website or application. 
